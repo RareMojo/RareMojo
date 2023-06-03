@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nick 'RareMojo' Rejcek.</h1>
+<h1 align="center">👋 I'm RareMojo.</h1>
 <h3 align="center">A passionate hobbyist developer from Texas, USA.</h3>
 
 - 🔭 I’m currently working on [YoBot-Discord](https://github.com/RareMojo/YoBot-Discord)
