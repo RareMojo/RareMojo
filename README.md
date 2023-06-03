@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, JS/TS, Node.js, React, Electron, CFE, and always more.**
 
-- ⚡ I'm pausing development on [DADGT](SECRET) *Not public at this time*
+- ⚡ I'm pausing development on [DADGT](SECRET) | *Not public at this time*
 
 - 👨‍💻 All of my projects are available here.
 
