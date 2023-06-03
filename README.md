@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [YoBot-Discord](https://github.com/RareMojo/YoBot-Discord)
 
-- 🌱 I’m currently learning **Python, JS/TS, React, Electron, CFE, and always more.**
+- 🌱 I’m currently learning **Python, JS/TS, Node.js, React, Electron, CFE, and always more.**
 
-- ⚡ I'm pausing development on [DADGT](SECRET)
+- ⚡ I'm pausing development on [DADGT](SECRET) *Not public at this time*
 
-- 👨‍💻 All of my projects are available at [https://github.com/RareMojo](https://github.com/RareMojo)
+- 👨‍💻 All of my projects are available here.
 
 - 💬 Ask me about **Python, Discord Bots, Computer Vision, OCR, and computer automation.**
 
