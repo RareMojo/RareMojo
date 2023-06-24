@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [gpt-engineer](https://github.com/AntonOsika/gpt-engineer).<br><br>🌱 I’m learning more **Python, JS/TS, Node.js, React, Electron, CFE, AI, and whatever is next.**<br><br>⚡ I'm pausing development on [DADGT](http://secrettoeverybody.com/)  |  *Not public at this time*<br><br>👨‍💻 All of my projects are available here.<br><br>💬 I'm into **AI, LLMs, Python, Discord Bots, Computer Vision, OCR, and Computer Automation.**<br><br>📫 You can reach me on **Discord @ raremojo**
+🔭 I’m currently contributing to: [gpt-engineer](https://github.com/AntonOsika/gpt-engineer).<br><br>🌱 I’m learning more **Python, JS/TS, Node.js, React, Electron, CFE, AI, and whatever is next.**<br><br>⚡ I'm pausing development on [DADGT](http://secrettoeverybody.com/)  |  *Not public at this time*<br><br>👨‍💻 All of my projects are available here.<br><br>💬 I'm into **AI, LLMs, Python, Discord Bots, Computer Vision, OCR, and Computer Automation.**<br><br>📫 You can reach me on **Discord @ raremojo**
 
 <br>
 
