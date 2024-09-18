@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: [yobot](https://github.com/RareMojo/yobot).<br><br>🌱 I’m learning more **Python, JS/TS, Node.js, React, Electron, CFE, AI, and whatever is next.**<br><br>👨‍💻 All of my projects are available here.<br><br>💬 I'm into **AI, LLMs, Python, Discord Bots, Computer Vision, OCR, and Computer Automation.**<br><br>📫 You can reach me on **Discord @ raremojo**
+🔭 I’m currently working on: [yobot](https://github.com/RareMojo/yobot)<br><br>🌱 I’m learning more **Python, JS/TS, Node.js, React, Electron, CFE, AI, and whatever is next.**<br><br>👨‍💻 All of my projects are available here.<br><br>💬 I'm into **AI, LLMs, Python, Discord Bots, Computer Vision, OCR, and Computer Automation.**<br><br>📫 You can reach me on **Discord @ raremojo**
 
 <br>
 
